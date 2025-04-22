@@ -1,2 +1,2 @@
 # snmp-printer-mib-test
-SNMP Pritner MIB Test
+SNMP Printer MIB Test
